@@ -19,7 +19,7 @@ tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
 vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
 no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-# Footnotes
+# Evaluation
 
 Example of footnote^[A footnote example]. Lorem ipsum dolor sit amet, consectetur
 adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
@@ -29,7 +29,7 @@ voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
 occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
 id est laborum.
 
-# Cites
+# Further work
 
 Zotero + Better BibTex. All cites are on the file bibliography.bib. This is
 a cite[@djangoproject_models_2016].
@@ -41,5 +41,6 @@ tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
 vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
 no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-# References
+# Acknowledgements {-}
 
+# References

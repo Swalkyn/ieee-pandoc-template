@@ -3,8 +3,10 @@ FILES = paper.md \
 
 OUTPUT = build
 
-FLAGS = --bibliography=bibliography.bib \
+FLAGS = --citeproc \
+		--bibliography=bibliography.bib \
 		--csl=bibliography.csl \
+		-d ~/.config/pandoc.yml \
 		-s \
 		-f markdown
 
